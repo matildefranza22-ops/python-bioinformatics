@@ -1,4 +1,4 @@
-sequence = "ATGCGTACGTTAGCGTACG"
+sequence = "ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG"
 
 length = len(sequence)
 
